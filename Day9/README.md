@@ -21,5 +21,11 @@
 - A group of one or more identical Virtual machines that can be scaled out and scaled in based on the demand/schedule and manual actions.
 - This ensures high availability and fault tolerance so that if one VM crashes, another gets provisioned using the template.
 - This is similar to AWS AutoScaling Groups or GCP Managed Instance Groups.
+
+suppose we have installed the python,docker in microsoft hosted agent 
+for 1 st run it will run the code 
+For 2 nd run it again installs the softwares As microsoft alots a new pool everytime 
+
+While in self hosted pool if we add the default software for one time it will stay on in every run 
   
 
